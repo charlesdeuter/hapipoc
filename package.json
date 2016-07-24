@@ -1,0 +1,22 @@
+{
+  "name": "hapipoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesdeuter/hapipoc.git"
+  },
+  "author": "Charles Deuter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesdeuter/hapipoc/issues"
+  },
+  "homepage": "https://github.com/charlesdeuter/hapipoc#readme",
+  "dependencies": {
+    "hapi": "^13.5.0"
+  }
+}
